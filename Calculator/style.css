@@ -26,7 +26,7 @@ body {
 }
 
 .item {
-	background-color: blue;
+	background-color: #48D1CC;
 	display: flex;
 	padding: 20px;
 	justify-content: center;
